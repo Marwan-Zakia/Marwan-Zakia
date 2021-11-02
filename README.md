@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Marwan-Zakia
 - 👀 I’m interested in software develpment and game design 
-- 🌱 I’m currently learning software develpment
-- 💞️ I’m looking to collaborate with code fellows to advance my journey in programming
+- 🌱 I do thing and software develpment
 - 📫 How to reach me Email : marwanamir.ma@gmail.com
 
 <!---
