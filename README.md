@@ -24,7 +24,7 @@ My name is Marwan Zakia and i'm a full stack developer who is passionate about p
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 <br/>
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Next js](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Next js](https://img.shields.io/badge/-nextjs-05122A?style=flat&logo=nextjs)
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=Express.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 </br>
