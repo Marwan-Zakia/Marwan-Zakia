@@ -23,28 +23,17 @@ My name is Marwan Zakia and i'm a full stack developer who is passionate about p
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 <br/>
-
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-
 ![Next js](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=Express.js)
-
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 </br>
-
 ![MongoDB](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=MongoDB)
-
 ![postgresql](https://img.shields.io/badge/-postgresql-05122A?style=flat&logo=postgresql)
-
 ![socket.io](https://img.shields.io/badge/-socket.io-05122A?style=flat&logo=socket.io)
-
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)
-
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
