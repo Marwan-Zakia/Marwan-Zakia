@@ -12,7 +12,7 @@ My name is Marwan Zakia and i'm a full stack developer who is passionate about p
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Web-development.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at marwanamir.ma@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Portfolio]() for more details about me. I'm open to feedback and suggestions!
 
@@ -22,17 +22,30 @@ My name is Marwan Zakia and i'm a full stack developer who is passionate about p
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)
 <br/>
+
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)
+
+![Next js](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=Express.js)
+
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 </br>
-![Django](https://img.shields.io/badge/-django-05122A?style=flat&logo=Django)
+
 ![MongoDB](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=MongoDB)
+
+![postgresql](https://img.shields.io/badge/-postgresql-05122A?style=flat&logo=postgresql)
+
+![socket.io](https://img.shields.io/badge/-socket.io-05122A?style=flat&logo=socket.io)
+
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
 ## &#x1f4c8; GitHub Stats
