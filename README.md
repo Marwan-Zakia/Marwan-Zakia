@@ -62,3 +62,4 @@ My name is Marwan Zakia and i'm a full stack developer who is passionate about p
 <a href="https://www.linkedin.com/in/marwan-zakia/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="marwanamir.ma@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
+![snake gif](https://github.com/Marwan-Zakia/Marwan-Zakia/blob/output/github-contribution-grid-snake.svg)
