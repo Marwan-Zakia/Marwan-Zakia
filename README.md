@@ -14,7 +14,7 @@ My name is Marwan Zakia and i'm a full stack developer who is passionate about p
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Web-development.\
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at marwanamir.ma@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Portfolio](https://marwanzakia.netlify.app/) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Portfolio](https://marwan-zakia-s-portfolio-git-main-marwan-zakia.vercel.app/) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
 
